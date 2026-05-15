@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @capnakul23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning AI/ML enthusiast.
-- 💞️ I’m looking to collaborate with everywhere.
-- 📫 How to reach me :call me anyone 9416374423
+Nakul — AI/ML Builder
 
-<!---
-capnakul23/capnakul23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building at the intersection of intelligence and impact.
+
+What I'm about
+AI/ML — not as a buzzword, but as the most leveraged skill of the decade.
+I learn by building. I collaborate by shipping.
+Currently
+
+🔬 Deep in AI/ML — models, systems, and what makes them actually work
+🤝 Open to collaborating on anything that moves the needle
+📬 Reach me directly: +91 94163 74423
